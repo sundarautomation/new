@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1zLDF714Ee1QfMEHJOJQF2faKz+80L3Lmg8BbfgR4L6LZlpWHuMxhYjtFnszV++w/JViJnVUSsuOdjTTcbazQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sunda\\source\\repos\\sundar001\\Stateful1\\Stateful1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.servicefabric\\7.2.445\\microsoft.servicefabric.7.2.445.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.servicefabric.data\\4.2.445\\microsoft.servicefabric.data.4.2.445.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.2.445\\microsoft.servicefabric.data.extensions.4.2.445.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.2.445\\microsoft.servicefabric.data.interfaces.4.2.445.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.2.445\\microsoft.servicefabric.diagnostics.internal.4.2.445.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.servicefabric.services\\4.2.445\\microsoft.servicefabric.services.4.2.445.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\sunda\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
